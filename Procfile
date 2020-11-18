@@ -1,1 +1,1 @@
-web: node assignment2webserver.js
+web: node Assignment2WebServer.js
